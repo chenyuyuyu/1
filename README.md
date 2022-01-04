@@ -55,3 +55,10 @@ SpringBoot+MyBatis+Redis+MySQL
 **管理员（后台）**
 ![QQ图片20220104114858](https://user-images.githubusercontent.com/22994760/148007156-34d71329-c9a6-4633-b4b1-ce7f4ab3df4a.png)
 ![QQ图片20220104114902](https://user-images.githubusercontent.com/22994760/148007160-20a1ea7a-8da2-4606-aacc-e88f47b706cf.png)
+
+## 后续优化（待完成）
+1、前端页面美化（样式、布局）
+2、增加个人主页
+3、文章搜索（通过文章title、tag、summary...）
+4、增加第三方登录功能
+5、部署
