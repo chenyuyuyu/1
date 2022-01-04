@@ -58,7 +58,11 @@ SpringBoot+MyBatis+Redis+MySQL
 
 ## 后续优化（待完成）
 1、前端页面美化（样式、布局）
+
 2、增加个人主页
+
 3、文章搜索（通过文章title、tag、summary...）
+
 4、增加第三方登录功能
+
 5、部署
