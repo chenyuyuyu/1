@@ -25,6 +25,7 @@ SpringBoot+MyBatis+Redis+MySQL
     使用blog.sql文件创建表
 **前端工程(blog-app)**
 
+    Google drive下载：https://drive.google.com/file/d/1-cSAkxDpN_0ChdU01zBgPcBsh9UhSAH_/view?usp=sharing
     npm install
     npm run build
     npm run dev
@@ -57,7 +58,7 @@ SpringBoot+MyBatis+Redis+MySQL
 ![QQ图片20220104114902](https://user-images.githubusercontent.com/22994760/148007160-20a1ea7a-8da2-4606-aacc-e88f47b706cf.png)
 
 ## 后续优化（待完成）
-1、前端页面美化（样式、布局）
+1、前端页面美化（样式、布局、主题）
 
 2、增加个人主页
 
